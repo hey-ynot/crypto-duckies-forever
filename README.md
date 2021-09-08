@@ -2,6 +2,13 @@
 the effort to move crypto duckies to a fully on chain NFT.
 
 
+#### Links:
+https://www.cryptoduckies.co/
+https://opensea.io/collection/crypto-duckies
+https://twitter.com/DuckiesCrypto
+https://discord.com/invite/jn35YkYEjj
+
+
 ## Introduction
 
 #### What Are Crypto Duckies?
