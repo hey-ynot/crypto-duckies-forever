@@ -4,9 +4,16 @@ the effort to move crypto duckies to a fully on chain NFT.
 
 #### Links:
 https://www.cryptoduckies.co/
+
 https://opensea.io/collection/crypto-duckies
+
 https://twitter.com/DuckiesCrypto
+
 https://discord.com/invite/jn35YkYEjj
+
+
+
+
 
 
 ## Introduction
@@ -21,6 +28,9 @@ This repository comprises the efforts of the community in separating the Crypto 
 
 #### How Will It Work?
 The token will follow similar steps towards immortality that were followed by Larvalabs and the Cryptopunks community.
+
+
+
 
 
 ## Resources
